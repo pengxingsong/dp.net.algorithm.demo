@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="算法框架学习\二叉搜索树\" />
+  </ItemGroup>
+
 </Project>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AlgorithmTrainingConsole.算法框架学习.二叉树;
+using System;
 
 namespace AlgorithmTrainingConsole
 {
@@ -6,7 +7,7 @@ namespace AlgorithmTrainingConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            FlipBinaryTree.Test();
         }
     }
 }
